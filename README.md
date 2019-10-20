@@ -5,7 +5,7 @@
 
 Enable the use of anonymous methods as events in Delphi
 
-####Example
+###Example
 
 	procedure TfrmPrincipal.FormCreate(Sender: TObject);
 	type
